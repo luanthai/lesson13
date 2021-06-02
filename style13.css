@@ -1,0 +1,285 @@
+h1{
+	text-align: center;
+}
+#wrap1{
+	width: 1000px;
+	float: left;
+	background: blue;/*de xem*/
+}
+#hinh1{
+	width: 600px;
+	height: 600px;
+	background: white;
+	margin: auto;
+}
+.dong1{
+	width: 600px;
+	height: 200px;
+	background: white;
+}
+.xam11{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	float: left;
+	margin-left: 0;
+}
+.xam12{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	float: left;
+	margin-left: 200px;
+}
+.xam21{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	float: left;
+	margin-left: 200px;
+}
+/*hinh2*/
+#hinh2{
+	width: 1000px;
+	height: 400px;
+	background: white;
+	margin: auto;
+}
+#dong2{
+	width: 1000px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+#do2{
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+#vang2{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	float: left;
+	margin-left: 200px;
+}
+#xanhla2{
+	width: 200px;
+	height: 200px;
+	background: green;
+	float: left;
+	margin-left: 200px;
+}
+#xanh2{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	float: left;
+	margin-left: 200px;
+}
+#tim2{
+	width: 200px;
+	height: 200px;
+	background: purple;
+	float: left;
+	margin-left: 200px;
+}
+#hinh3{
+	width: 700px;
+	height: 1200px;
+	background: white;
+	margin: auto;
+}
+.dong3{
+	width: 700px;
+	height: 400px;
+	float: left;
+	background: white;
+}
+#do3dong1{
+	width: 300px;
+	height: 100px;
+	margin-left: 200px;
+	float: left;
+	background: red;
+}
+#xam1dong1{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 200px;
+	background: gray;
+}
+#xam2dong1{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 100px;
+	background: gray;
+}
+#do3dong2{
+	width: 500px;
+	height: 100px;
+	margin-left: 100px;
+	float: left;
+	background: red;
+}
+#xam1dong2{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 100px;
+	background: gray;
+}
+#xam2dong2{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 300px;
+	background: gray;
+}
+#do3dong3{
+	width: 700px;
+	height: 100px;
+	margin-left: 0;
+	float: left;
+	background: red;
+}
+#xam1dong3{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 0;
+	background: gray;
+}
+#xam2dong3{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-left: 500px;
+	background: gray;
+}
+/*hinh 4*/
+#wrap2{
+	width: 1850px;
+	height: 1600px;
+	background: white;
+	float: left;
+	margin-left: 100px;
+}
+#red1{
+	width: 1800px;
+	height: 100px;
+	float: left;
+	background: red;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+#dong24{
+	width: 1600px;
+	height: 500px;
+	margin-left: 125px;
+}
+#blue1{
+	width: 1200px;
+	height: 500px;
+	background: blue;
+	float: left;
+}
+#dong241{
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+#green1{
+	width: 400px;
+	height: 300px;
+	background: green;
+}
+#yellow1{
+	width: 400px;
+	height: 200px;
+	background: yellow;
+}
+#dong34{
+	width: 1600px;
+	height: 700px;
+	float: left;
+	margin-left: 125px;
+}
+#trai{
+	width: 800px;
+	height: 700px;
+	background: ;
+	float: left;
+}
+#green2{
+	width: 800px;
+	height: 400px;
+	background: green;
+	float: left;
+}
+#trai1{
+	width: 800px;
+	height: 300px;
+}
+#pink1{
+	width: 400px;
+	height: 300px;
+	background: pink;
+	float: left;
+}
+#orange1{
+	width: 400px;
+	height: 300px;
+	background: orange;
+	float: left;
+}
+#phai{
+	width: 800px;
+	height: 700px;
+	background: white;
+	float: left;
+}
+#phai1{
+	width: 800px;
+	height: 300px;
+}
+#red2{
+	width: 400px;
+	height: 500px;
+	background: red;
+	float: left;
+}
+#phai11{
+	width: 400px;
+	height: 500px;
+	background: white;
+	float: left;
+}
+#orange2{
+	width: 400px;
+	height: 200px;
+	background: orange;
+	float: left;
+}
+#green3{
+	width: 400px;
+	height: 300px;
+	background: green;
+	float: left;
+}
+#pink2{
+	width: 800px;
+	height: 200px;
+	background: pink;
+	float: left;
+}
+#xanh44{
+	width: 1600px;
+	height: 100px;
+	float: left;
+	background: blue;
+	margin-left: 125px;
+}

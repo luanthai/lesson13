@@ -1,0 +1,45 @@
+#maudo{
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+#mauxanh{
+	width: 200px;
+	height: 200px;
+	background: blue;
+/*	margin-left: 200px;*/
+	float: left;
+	/*	margin-top: 20px;
+	margin-bottom: 20px;*/
+	/*padding-top: 50px;
+	padding-left: 50px;*/
+}
+p{
+	margin-top: 50px;
+	margin-left: 50px;
+	/*không dùng padding của div thi dung margin cua text thi se không bị cộng dồn*/
+}
+#mauxanh2{
+	width: 190px;
+	height: 190px;
+	background: green;
+	float:  left;
+	border: 5px solid #FD8008;
+	/*kich thuoc của div se công them border*/
+}
+#khunglon{
+	background: #800080;
+	width: 600px;
+	height:  600px;
+	float: left;
+	/*Nếu không để float, khungnho se canh theo lề trên và keo theo cà khunglon xuống
+	nen phải co dinh khung lon = float thì khungnho se canh duoc theo khunglon*/
+}
+#khungnho{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	margin-left: 200px;
+	margin-top: 200px;
+}
